@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alex-0campo
 - 👀 I'm a retired IT Manager and love automating repetitive tasks through PowerShell.
-- 🌱 I’m currently learning git (n00b)
+- 🌱 I’m currently learning git (n00b)...
 - 💞️ I’m looking to collaborate on IT solutions
 - 📫 Please email me at alexo.seattle@gmail.com
 
